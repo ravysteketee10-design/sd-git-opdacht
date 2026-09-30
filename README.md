@@ -1,2 +1,3 @@
 # sd-git-opdacht
-dit is wat we moeten doen for github
+
+** dit is iets maar ik heb geen idee wat ik doe**
